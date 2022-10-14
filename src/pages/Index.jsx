@@ -2,7 +2,7 @@ import { useLocalStorage } from 'react-use'
 import {
     createBrowserRouter,
     RouterProvider,
-    Route,
+    Router,
   } from "react-router-dom"
 
 import { Home } from './Home'
